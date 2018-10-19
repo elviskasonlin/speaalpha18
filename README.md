@@ -1,20 +1,23 @@
 # spea-alpha18
 
-In order to run this on a local server, the following three things are required..
-
-1. Ruby
-2. Jekyll
-3. Bundle
-
-After installing ruby through apt-get, homebrew or via any package manager, install the required dependencies by executing :
+## Installation
+In order to run this on a local server, first install ruby via your package manager of choice (apt-get, homebrew, etc.). Afterwards, install bundler for gem management by typing the command below in your terminal.
 ```
-gem install jekyll bundler
-```.
+gem install bundler
+```
 
-Once all the packages are installed, change your current directory to this project directory and type in the following command :
+Once bundler has been successfully installed, execute the next command to install all the required dependencies (gems)
+```
+bundle install
+```
+
+To run the server locally, type the following command.
 ```
 bundle exec jekyll serve --watch
 ```
 
 Once the server is running, go to localhost:4000/project/ and check it out!
+
+## Writing a post
+
 

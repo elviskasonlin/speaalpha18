@@ -4,8 +4,7 @@
 layout: home
 ---
 
-# Hello!
+# Introduction
 
-This includes something. It's from index.md.
-
+This index.md file.
 ___

@@ -11,7 +11,9 @@ github_username: "anotherthing"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-swiss
+theme_color: white
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 

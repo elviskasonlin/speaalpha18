@@ -6,5 +6,5 @@ tags:
 ---
 
 This is a page for the team
-<p>Selwyn Ng</p>
-<p> (selwynng123@gmail.com) </p>
+Selwyn Ng
+(selwynng123@gmail.com)

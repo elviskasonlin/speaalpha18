@@ -6,7 +6,7 @@ tags:
 ---
 
 **Glenn** <br />
-Mechanical Engineering <br />
+Electrical and Electronics Engineering <br />
 glennni.17@ichat.sp.edu.sg
 
 **Hong Sheng Yang** <br />

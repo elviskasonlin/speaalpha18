@@ -4,12 +4,23 @@ title: Team
 permalink: /team/
 tags:
 ---
-# Team Members
 
-Team Members In Engineering  Group Alpha
+**Glenn** <br />
+Mechanical Engineering <br />
+glennni.17@ichat.sp.edu.sg
 
-  - Selwyn Ng
-  - selwynng123@gmail.com
-  - Magic
+**Hong Sheng Yang** <br />
+Computer Engineering <br />
+hsy30.17@ichat.sp.edu.sg
 
-This is a page for the team
+**Pyae Phyo Aung @ Elvis kason Lin** <br />
+Engineering with Business <br />
+elviskasonlin.17@ichat.sp.edu.sg
+
+**Selwyn Ng** <br />
+Aeronautical Engineering <br />
+selwynng123@gmail.com
+
+**Tze Pin** <br />
+Mechanical Engineering <br />
+quantumoftheaurora@gmail.com

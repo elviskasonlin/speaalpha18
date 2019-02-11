@@ -12,18 +12,27 @@ categories: [Equipment]
 |3 | Orange 1200TVL CMOS 2.5mm/2.8mm 130/120 Degree 16:9 Mini FPV Camera--pal/NTSC 5V-12V For RC Drone - 2.8mm PAL | 1 | [Reference](https://www.banggood.com/Orange-1200TVL-2_5mm2_8mm-130120-Degree-Mini-FPV-Camera-PALNTSC-5V-12V-For-Micro-Racer-Quadcopter-p-1150403.html?rmmds=search&ID=51789644070&cur_warehouse=CN)|
 |4 | 4mm Gold Bullet Connector Banana Plug For ESC Battery Motor | 50 | - |
 |5 | Adhesive Aluminum Heat Sink Cooler Kit For Cooling Raspberry Pi **Not neccessary for Raspberry Pi**| 60 |  -   |
-|6 | col 3 is      | right-aligned | $1600          |
-|7 | col 3 is      | right-aligned | $1600          |
-|8 | col 3 is      | right-aligned | $1600          |
-|9 | col 3 is      | right-aligned | $1600          |
-|10| col 3 is      | right-aligned | $1600          |
-|11| col 3 is      | right-aligned | $1600          |
-|12| col 3 is      | right-aligned | $1600          |
-|13| col 3 is      | right-aligned | $1600          |
-|14| col 3 is      | right-aligned | $1600          |
-|15| col 3 is      | right-aligned | $1600          |
-|16| col 3 is      | right-aligned | $1600          |
-|17| col 3 is      | right-aligned | $1600          |
-|18| col 3 is      | right-aligned | $1600          |
+|6 | Heat shrink   | 1 pack | -   |
+|7 | Arduino Uno      | 1 | -  |
+|8 | Seapoint Turbidity Sensor  | 1 | -  |
+|9 | Temperature Probe | 1 | -         |
+|10| Batteries with charger (Li-ion polymer/NiMH)      | 4 | 11.1V, > 5000 mAh, > 55 Wh |
+|11| Motor Shield – VNH2SP30 (30A)  | 2 | -   |
+|12| Nylon Rope for tether     | 1 | Between 7 and 10 meters  |
+|13| Clear Wire Jacket      | 1 |Diameter between 8 and 15mm <br>Length between 7 and 10 meters|
+|14| Clear Epoxy Resin      | 1 | -          |
+|15| IP67 Waterproof LED    | 2 | 500 lumens, Max 5W @ 12V or 5V          |
+|16| Rubber Gaskets    | 1|   -     |
+|17| Adjustable Buck Convertors     | 4 | From 12V down to 3.3/6/9V    |
+|18| PVC Tubing     | 1 | 10 cm diameter, 1 m length        |
+|19| PVC Tubing     | 1 | 15 cm diameter, 1 m length        |
+|20| Grey PVC Tubing     | 2 | 1 m length        |
+|21| Plexiglass     | 1 | 5mm thick 0.5m x 0.5m (length x width) |
+|22| Aluminium Rods     | 2 | 3 – 5mm diameter, 1m long       |
+|23| Watertight marine fasteners  | 1 Pack | M3 & M4       |
+|24| Wires     | 10m | 22 AWG, 8 Core Multi-core cable, Shielded        |
+|25| PS2 Controller and Receiver     | 1 | -        |
+|26| Watertight Cable glands     | 20 | 1 to 2 cm inner diameter        |
+|27| O-Rings for Cable Gland    | 20 | Based on the type of cable gland bought       |
 
   

@@ -23,7 +23,7 @@ categories: [Design]
 - Keep the center of gravity relatively in the center of the craft 
 - Help to increase the overall density of the craft to be denser than water. 
 - Provides better longitudinal stability by increasing the area the wings have to push on when rolling
-> Also we opted to use aluminium because, from seniors experiences of using 3d printed motor mounts, it would break oftenly thus to avoid it aluminum will be a more reliable choice of material.
+- From our seniors experiences of using 3d printed motor mounts, it would break oftenly thus to avoid it aluminum will be a more       reliable choice of material.
 
 ### Usage of zip ties
 - Use of 3d printed motor mounts, would break frequently

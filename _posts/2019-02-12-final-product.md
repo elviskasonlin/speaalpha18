@@ -13,13 +13,6 @@ categories: [log]
     row-gap: 10px;
     justify-items: center;
   }
-
-  .item {
-    padding: 1px;
-  }
-
-
-
 </style>
 
 <div class="wrapper">

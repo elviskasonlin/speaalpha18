@@ -5,22 +5,30 @@ permalink: /team/
 tags:
 ---
 <style>
-.wrapper {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  column-gap: 10px;
-  row-gap: 10px;
-  justify-items: center;
-}
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+    justify-items: center;
+  }
 
-.item {
-  text-align: center;
-}
+  .item {
+    text-align: center;
+  }
 
-.item > img {
-  width: 150px;
-  height: 150px;
-}
+  .item > img {
+    width: 150px;
+    height: 150px;
+  }
+
+  header{
+    text-align: center;
+  }
+
+  article > div:first-of-type {
+    visibility: hidden;
+  }
 </style>
 
 <div class="wrapper">

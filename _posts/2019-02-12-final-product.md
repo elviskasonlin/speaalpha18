@@ -33,3 +33,5 @@ categories: [log]
     <img class="item" src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
   </div>
 </div>
+
+After 6 weeks, our team has finally came out with our submersible ROV along side with the camera.

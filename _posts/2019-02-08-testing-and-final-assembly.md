@@ -12,8 +12,8 @@ categories: [log]
 <img src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
 <img src="/speaalpha18/asset_images/testing/IMG_6605.JPG"/>
 <img src="/speaalpha18/asset_images/testing/IMG_6565.JPG"/>
-<img src="/speaalpha18/asset_images/testing/1541.JPG"/>
-<img src="/speaalpha18/asset_images/testing/9708.JPG"/>
-<img src="/speaalpha18/asset_images/testing/1542.JPG"/>
-<img src="/speaalpha18/asset_images/testing/1543.JPG"/>
-<img src="/speaalpha18/asset_images/testing/1544.JPG"/>
+<img src="/speaalpha18/asset_images/testing/1541.jpg"/>
+<img src="/speaalpha18/asset_images/testing/9708.jpg"/>
+<img src="/speaalpha18/asset_images/testing/1542.jpg"/>
+<img src="/speaalpha18/asset_images/testing/1543.jpg"/>
+<img src="/speaalpha18/asset_images/testing/1544.jpg"/>

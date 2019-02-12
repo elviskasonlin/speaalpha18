@@ -6,30 +6,35 @@ categories: [log]
 ---
 
 <style>
-<style>
-* {
-  box-sizing: border-box;
-}
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30vh, 1fr));
+    grid-gap: 20px;
+  }
 
-.row {
-  display: flex;
-}
+  .item {
+    width:100%;
+  }
 
-/* Create three equal columns that sits next to each other */
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
+  .item > img {
+    object-fit: cover;
+  }
 </style>
 
-</style>
-
-<div class="row">
-  <div class="column">
+<div class="wrapper">
+  <div class="item">
     <img class="item" src="/speaalpha18/asset_images/craft/IMG_6612.JPG"/>
+  </div>
+  <div>
     <img class="item" src="/speaalpha18/asset_images/craft/IMG_6609.JPG"/>
+  </div>
+  <div>
     <img class="item" src="/speaalpha18/asset_images/craft/IMG_6556.JPG"/>
+  </div>
+  <div>
     <img class="item" src="/speaalpha18/asset_images/craft/IMG_6608.JPG"/>
+  </div>
+  <div>
     <img class="item" src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
   </div>
 </div>

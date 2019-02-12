@@ -12,7 +12,10 @@ permalink: /prototype/
 The underwater submersible remotely operated vehicle (ROV) is a X m by Y m craft that weighs X kg. Primarily made out of PVC for its outer shell, 
 
 # Product Specifications
+Specifications such as craft dimensions, weight, etc.
 
-# Product designs
+# Designs & Plans
+Images of original plans, build etc.
 
 # Results
+The results, video, images etc.

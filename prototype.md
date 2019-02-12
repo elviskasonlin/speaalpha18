@@ -21,7 +21,7 @@ Link to parts list click [(here)]({{ site.baseurl }}{% post_url 2019-01-11-parts
 Link to constraints & requirements list click [(here)]({{ site.baseurl }}{% post_url 2018-10-30-constraints-req %}) <br>
 
 # Designs & Plans
-Images of original plans, build etc.
+Images of original plans, build can be phone under the design phase linked below.
 
 Link to design phase click [(here)]({{ site.baseurl }}{% post_url 2019-01-18-initial-designs %}) <br>
 Link to construction progress 1 click [(here)]({{ site.baseurl }}{% post_url 2019-01-25-construction-progress %})<br>

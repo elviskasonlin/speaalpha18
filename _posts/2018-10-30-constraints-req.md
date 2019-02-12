@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 3, Specs"
+title: "Constraints & Requirements"
 date: 2018-10-30 11:00:00 +0800
 categories: [log]
 ---

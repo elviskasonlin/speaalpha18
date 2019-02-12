@@ -7,8 +7,8 @@ categories: [Design]
 
 ## Front Canards
 - Provide stability on the longitudinal stability
-- On surface it enables front to lift higher out of the water to reduce drag on the body minimising skin friction and and frontal area.
-- Provides better longitudinal stability by increasing the area the wings have to push on when rolling 
+- On surface it enables front to lift higher out of the water to reduce drag on the body minimising skin friction and frontal area.
+- Provides better longitudinal stability by increasing the area the wings have to push on when rolling
 
 
 ## Adjustable Canards

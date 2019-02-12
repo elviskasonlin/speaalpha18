@@ -21,6 +21,7 @@ categories: [log]
   .item > img {
     width: 150px;
     height: 150px;
+    padding; 5px;
   }
 
 </style>

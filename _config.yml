@@ -1,11 +1,11 @@
 # Site Configuration
 
-title: Engineering Design Underwater ROV Project
+title: Engineering Design Project
 email: elviskasonlin.17@ichat.sp.edu.sg
 description: >- 
   This site details the entire journey undertaken by the team as part of the Engineering Design module to create a sensor platform.
 baseurl: "/speaalpha18" # the subpath of your site, e.g. /blog
-url: "https://elviskasonlin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://elviskasonlin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: "speaalpha18" 
 github_username: "elviskasonlin" 
 

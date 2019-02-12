@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assign 1a Digital I/O"
+title:  "Assign 2a Digital I/O"
 date:   2018-10-23 11:24:07 +0800
 categories: [assignment]
 ---

@@ -4,6 +4,6 @@
 layout: home
 ---
 
-# Posts
+# Blog 
 
 ___

@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Assignment One, Digital I/O"
+title:  "Assign 1a Digital I/O"
 date:   2018-10-23 11:24:07 +0800
 categories: [assignment]
 ---
-
-# Assignment One : Digital I/O
 
 1. ATMega328 has six 10-bit 5V ADC ports.
   * Which ports are used? <br /> 

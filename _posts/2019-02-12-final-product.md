@@ -16,13 +16,10 @@ categories: [log]
 
   .item {
     text-align: center;
+    padding: 8px;
   }
 
-  .item > img {
-    width: 150px;
-    height: 150px;
-    padding; 5px;
-  }
+
 
 </style>
 

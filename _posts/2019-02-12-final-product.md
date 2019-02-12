@@ -18,14 +18,14 @@ categories: [log]
     padding: 1px;
   }
 
-
-
 </style>
 
 <div class="wrapper">
-  <img  src="/speaalpha18/asset_images/craft/IMG_6612.JPG"/>
-  <img  src="/speaalpha18/asset_images/craft/IMG_6609.JPG"/>
-  <img  src="/speaalpha18/asset_images/craft/IMG_6556.JPG"/>
-  <img  src="/speaalpha18/asset_images/craft/IMG_6608.JPG"/>
-  <img  src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
+  <div class="item">
+    <img  src="/speaalpha18/asset_images/craft/IMG_6612.JPG"/>
+    <img  src="/speaalpha18/asset_images/craft/IMG_6609.JPG"/>
+    <img  src="/speaalpha18/asset_images/craft/IMG_6556.JPG"/>
+    <img  src="/speaalpha18/asset_images/craft/IMG_6608.JPG"/>
+    <img  src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
+    </div>
 </div>

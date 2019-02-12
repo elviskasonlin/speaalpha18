@@ -15,8 +15,7 @@ categories: [log]
   }
 
   .item {
-    text-align: center;
-    padding: 8px;
+    padding: 1px;
   }
 
 
@@ -24,9 +23,9 @@ categories: [log]
 </style>
 
 <div class="wrapper">
-  <img class="item" src="/speaalpha18/asset_images/craft/IMG_6612.JPG"/>
-  <img class="item" src="/speaalpha18/asset_images/craft/IMG_6609.JPG"/>
-  <img class="item" src="/speaalpha18/asset_images/craft/IMG_6556.JPG"/>
-  <img class="item" src="/speaalpha18/asset_images/craft/IMG_6608.JPG"/>
-  <img class="item" src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
+  <img  src="/speaalpha18/asset_images/craft/IMG_6612.JPG"/>
+  <img  src="/speaalpha18/asset_images/craft/IMG_6609.JPG"/>
+  <img  src="/speaalpha18/asset_images/craft/IMG_6556.JPG"/>
+  <img  src="/speaalpha18/asset_images/craft/IMG_6608.JPG"/>
+  <img  src="/speaalpha18/asset_images/testing/IMG_6603.JPG"/>
 </div>

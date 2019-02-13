@@ -7,11 +7,14 @@ categories: [log]
 <style>
   .wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(45vh, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(25vh, 1fr));
     grid-gap: 20px;
   }
   .item > img {
     width:100%;
+  }
+  .item > p {
+    font-size: 1em;
   }
 </style>
 
@@ -20,27 +23,47 @@ categories: [log]
 <div class="wrapper">
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6262.JPG" />
+    <p><em>Figure 1 : Original data & power connections</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6263.JPG" />
+    <p><em>Figure 2 : Original connections to the buoy</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6264.JPG" />
+    <p><em>Figure 3 : Original alternative electrical connection</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6265.JPG" />
+    <p><em>Figure 4 : Original double hull design</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6266.JPG" />
+    <p><em>Figure 5 : Original double hull design</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6554.JPG" />
+    <p><em>Figure 6 : Modified electrical connection</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/IMG_6555.JPG" />
+    <p><em>Figure 7 : Final hull design</em></p>
   </div>
   <div class="item">
     <img src="/speaalpha18/asset_images/diagrams/blockdiag.png"/>
+    <p><em>Figure 8 : Final electrical design</em></p>
+  </div>
+  <div class="item">
+    <img src="/speaalpha18/asset_images/diagrams/IMG_6617.JPG"/>
+    <p><em>Figure 9 : Electrical compartment dimensions</em></p>
+  </div>
+  <div class="item">
+    <img src="/speaalpha18/asset_images/diagrams/IMG_6618.JPG"/>
+    <p><em>Figure 10 : Electrical compartment dimensions and mount planning</em></p>
+  </div>
+  <div class="item">
+    <img src="/speaalpha18/asset_images/diagrams/mount.png"/>
+    <p><em>Figure 11 : Mount CAD diagrams</em></p>
   </div>
 </div>
 

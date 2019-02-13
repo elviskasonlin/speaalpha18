@@ -5,7 +5,7 @@ date: 2019-01-19 12:00:00 +0800
 categories: [log]
 ---
 # Requirements for neutral buoyancy calculations
-<img src="/speaalpha18/asset_images/calculations/IMG_6622.jpg"/>
+<img src="/speaalpha18/asset_images/calculations/IMG_6623.jpg"/>
 
 # Power draw
 

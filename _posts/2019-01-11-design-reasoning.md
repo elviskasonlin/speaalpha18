@@ -25,7 +25,6 @@ categories: [Design]
 ## Weight below craft
 - Helps to increase weight thus increasing overall density allowing the submarine to sink
 - It also helps with lowering the center of gravity of the submarine thus giving it a self correcting tendency allowing it to stay upright better in the water
-- It also gives a carrying handle for the craft
 
 ## Usage of zip ties
 - Use of 3d printed motor mounts, would break frequently

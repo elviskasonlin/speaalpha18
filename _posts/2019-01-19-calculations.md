@@ -9,7 +9,7 @@ categories: [log]
 
 # Power draw
 
-|Parts used|Voltage(V)|Amperage (A)|Qty|Safety factor|Max Amperage (A)|Max Power Consumption(W)|
+|Parts used|Voltage(V)|Amperage (A)|Qty|Safety factor|Max Amperage Consumed (A)|Max Power Consumption(W)|
 |:-|:-|:-|:-|:-|:-|:-|
 |350 GPH bilge pump|12|1.5|2|2|4|48|
 |1100GPH bilge pump|12|3|2|5|10|120|
@@ -17,4 +17,6 @@ categories: [log]
 |5W LED|12|0.4|1|-|0.4|5|
 |Camera|12|0.03|1|-|0.03|0.84|
 |Camera receiver|8|0.07|1|-|0.07|0.056|
-| | | | |Total|15.14|178.696|
+|LM7805|5|0.00025|1|-|0.00025|0.00125|
+|LM7808|8|0.3|1|-|0.3|2.4|
+| | | | |Total|15.69|181.09725|

@@ -7,19 +7,15 @@ tags:
 <style>
   .wrapper {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    column-gap: 10px;
-    row-gap: 10px;
-    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(20vh, 1fr));
+    grid-gap: 20px;
   }
 
   .item {
     text-align: center;
   }
-
   .item > img {
-    width: 150px;
-    height: 150px;
+    width:100%;
   }
 
   header{

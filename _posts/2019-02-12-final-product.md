@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Product & Conclusions
+title: Final Product
 date: 2019-02-12 12:00:00 +0800
 categories: [log]
 ---

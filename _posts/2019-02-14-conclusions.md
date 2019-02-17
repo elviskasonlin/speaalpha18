@@ -6,4 +6,12 @@ categories: [log]
 ---
 
 # Areas for improvement overview
-There were a few significant areas for improvement. Namely : 
+There were a few significant areas for improvement. Namely: power distribution, construction, and lighting.
+
+# Power distribution
+The battery is plugged into the the circuit 
+
+# Construction
+
+# Lighting
+Current lighting is 

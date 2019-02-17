@@ -10,7 +10,10 @@ categories: [assignment]
      - Port C of the ATMega328 are used as the ADC ports
 
   * What is the command used to read the ADC <br />
-  * What is the solution?
+     1. pinMode(A3, INPUT);
+     2. int x = analogRead(A3); //Reads the analog value on pin A3 into x
+     3. Serial.print(“Analog value: “);
+     4. Serial.println(x);
 
   * how is voltage accuracy achieved?
      - The volatage accuracy is +-2LSB which is around +-9.8mV
@@ -24,8 +27,6 @@ categories: [assignment]
      - Get an External module with higher bits resolution:
          - [ADS1015 12-Bit ADC](https://www.adafruit.com/product/1083)
          - [ADS1115 16-Bit ADC](https://www.adafruit.com/product/1085)
-
-  * How fast does the ADC need to be?
 
 2. Experimentations with digital I/O
   * Here's a link to a separate blog post on the experiments [LINK]({{ site.baseurl  }}{% post_url 2018-10-24-digital-io-experiments %})

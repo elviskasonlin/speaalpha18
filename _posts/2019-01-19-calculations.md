@@ -20,6 +20,7 @@ categories: [log]
 |LM7805|5|0.00025|1|-|0.00025|0.00125|
 |LM7808|8|0.3|1|-|0.3|2.4|
 | | | | |Total|15.69|181.09725|
+
 *The maximum current of 15.69 A refers to the maximum current drawn by the entire system, assuming everything is switched on with all 4 motors are stalling.
 
 # Under normal circumstances

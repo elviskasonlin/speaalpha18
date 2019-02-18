@@ -6,11 +6,11 @@ categories: [log]
 ---
 # Requirements for neutral buoyancy calculations
 
-|**Total Volume** = 3787654.950 mm^3|
-|**Weight of craft** = 3.302 kg|
-|**Volume necessary** = [(3.302x9.89)/992.7x9.81] x 1000^3 <br/>  = 3326281.858 mm^3|
-|**Excess volume** = 3787654.950 - 3326281.858 <br/> = 461373.0924 <br/> **Hence more weight is needed**|
-|461373.0924 = (1000^3)* [(x*9.81)/(992.77*9.81)] <br/> **x** = 0.458kg|
+| **Total Volume** = 3787654.950 mm^3|
+| **Weight of craft** = 3.302 kg|
+| **Volume necessary** = [(3.302x9.89)/992.7x9.81] x 1000^3 <br/>  = 3326281.858 mm^3|
+| **Excess volume** = 3787654.950 - 3326281.858 <br/> = 461373.0924 <br/> **Hence more weight is needed**|
+| 461373.0924 = (1000^3)* [(x*9.81)/(992.77*9.81)] <br/> **x** = 0.458kg|
 
 **Hence 0.458 kg is needed for neutral buoyancy**
 

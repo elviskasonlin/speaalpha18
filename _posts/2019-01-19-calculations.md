@@ -5,7 +5,13 @@ date: 2019-01-19 12:00:00 +0800
 categories: [log]
 ---
 # Requirements for neutral buoyancy calculations
-<img src="/speaalpha18/asset_images/calculations/IMG_6623.jpg"/>
+
+Total Volume = 3787654.950 mm^3
+Weight of craft = 3.302 kg
+Volume necessary = [(3.302x9.89)/992.7x9.81] x 1000^3
+                              = 3326281.858 kg^3
+
+
 
 # Power draw
 

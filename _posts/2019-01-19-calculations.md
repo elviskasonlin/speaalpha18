@@ -9,7 +9,7 @@ categories: [log]
 
 # Power draw
 
-|Parts used|Voltage(V)|Amperage (A)|Qty|Safety factor|Max Amperage Consumed (A)|Max Power Consumption(W)|
+|Parts used| Voltage(V)| Amperage (A)| Qty| Safety factor| Max Amperage Consumed (A)| Max Power Consumption(W)|
 |:-|:-|:-|:-|:-|:-|:-|
 |350 GPH bilge pump|12|1.5|2|2|4|48|
 |1100GPH bilge pump|12|3|2|5|10|120|
@@ -24,7 +24,7 @@ categories: [log]
 
 # Under normal circumstances
 Based from the average ampere each component consumes (3rd Column),
-Total amperage draw = (1.5 x 2) + (3 x 2) + (0.3 x 2) + 0.4 + 0.03 + 0.07 = 10.1A 
+Total amperage draw = (1.5 x 2) + (3 x 2) + (0.3 x 2) + 0.4 + 0.03 + 0.07 = 10.1A
 
 Batteries given: 3S 11.1V, 2250mAh (2.2A) , 25Wh, 45C (99A max discharge)
 Therefore, run time of the entire craft is:
